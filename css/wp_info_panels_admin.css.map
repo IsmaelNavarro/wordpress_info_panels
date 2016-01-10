@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,eAAe;EACd,KAAK,EAAE,eAAc;;AAGtB,YAAY;EACX,aAAa,EAAE,iBAAiB;;AAGjC,yBAAyB;EACxB,OAAO,EAAE,IAAI",
+"sources": ["sass/wp_info_panels_admin.scss"],
+"names": [],
+"file": "wp_info_panels_admin.css"
+}
