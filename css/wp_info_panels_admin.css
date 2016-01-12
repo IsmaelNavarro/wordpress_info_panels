@@ -4,7 +4,26 @@
 .page-header {
   border-bottom: 1px solid #B1B1B1; }
 
-.wip_new_group_panel_form {
+.wip_new_group_panel_form, .info_group {
   display: none; }
+
+.panel {
+  margin-top: 5px; }
+  .panel .panel-heading span {
+    margin-top: -26px;
+    font-size: 15px;
+    margin-right: -12px; }
+  .panel .clickable {
+    background: rgba(0, 0, 0, 0.15);
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer; }
+
+.groups {
+  overflow: auto;
+  height: 344px;
+  border: 1px solid #b1b1b1;
+  border-radius: 3px; }
 
 /*# sourceMappingURL=wp_info_panels_admin.css.map */
